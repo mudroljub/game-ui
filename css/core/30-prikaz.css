@@ -1,0 +1,29 @@
+/* PRIKAZ */
+
+.inline {
+  display: inline;
+}
+
+.block {
+  display: block;
+}
+
+.none {
+  display: none;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.full {
+  width: 100%;
+}

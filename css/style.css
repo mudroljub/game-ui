@@ -1,5 +1,7 @@
-@import "core/00-elementi.css";
+@import "core/00-defaults.css";
 @import "core/05-fontovi.css";
-@import "core/10-boje.css";
-@import "core/20-dugmici.css";
+@import "core/10-tipografija.css";
+@import "core/20-boje.css";
+@import "core/30-prikaz.css";
+@import "core/40-dugmici.css";
 @import "core/90-pomoc.css";
