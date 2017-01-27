@@ -1,0 +1,53 @@
+.sadrzaj {
+  padding: 0 15%;
+}
+
+/* PORAVNANJE */
+
+.levo {
+  text-align: left;
+}
+
+.desno {
+  text-align: right;
+}
+
+.centar {
+  text-align: center;
+}
+
+/* PRIKAZ */
+
+.inline {
+  display: inline;
+}
+
+.block {
+  display: block;
+}
+
+.none {
+  display: none;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.full {
+  width: 100%;
+}
+
+/* TIPOGRAFIJA */
+
+.pocetno-veliko:first-letter {
+  text-transform:capitalize;
+}
