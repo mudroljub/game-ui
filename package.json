@@ -1,12 +1,12 @@
 {
-  "name": "ui",
+  "name": "ui-guide",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "One UI guide to rule them all.",
+  "main": "css/style.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "mudroljub",
   "license": "ISC"
 }
