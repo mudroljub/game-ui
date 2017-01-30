@@ -1,14 +1,25 @@
 /* PRIKAZ */
 
-.inline {
-  display: inline;
+.sadrzaj {
+  padding: 0 15%;
+}
+
+.absolute {
+  position: absolute;
 }
 
 .block {
   display: block;
 }
 
-.none {
+.inline {
+  display: inline;
+}
+
+/* VIDLJIVOST */
+
+.none,
+.hide {
   display: none;
 }
 
@@ -20,9 +31,7 @@
   visibility: visible;
 }
 
-.absolute {
-  position: absolute;
-}
+/* POMOC */
 
 .full {
   width: 100%;
