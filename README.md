@@ -1,6 +1,6 @@
 ![](screen.png)
 
-# UI guide
+# Game UI
 
 One UI guide to rule them all.
 
