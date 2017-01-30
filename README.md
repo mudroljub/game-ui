@@ -4,4 +4,4 @@
 
 One UI guide to rule them all.
 
-See it here: https://mudroljub.github.io/ui-guide/
+See it here: https://mudroljub.github.io/game-ui/
