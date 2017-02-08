@@ -11,3 +11,7 @@
 .poluprovidno {
   opacity: 0.6;
 }
+
+.ne-selektuj {
+  user-select: none;
+}
