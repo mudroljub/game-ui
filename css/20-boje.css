@@ -1,8 +1,8 @@
-.pozadina-crno {
+.bg-black {
   background-color: black;
 }
 
-.crveno {
+.red {
   color: red;
 }
 
@@ -10,10 +10,10 @@
   color: #D94A38;
 }
 
-.belo {
+.white {
   color: white;
 }
 
-.pozadina-belo {
+.bg-white {
   background-color: white;
 }
