@@ -1,8 +1,9 @@
 .prozorce {
+  left: 50%;
   position: absolute;
-  left: 0;
-  right: 0;
-  margin-left: auto;
-  margin-right: auto;
-  width: 300px; /* mora neka sirina */
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  padding: .25em .5em;
+  border-radius: 5px;
 }

@@ -1,13 +1,9 @@
+.black {
+  color: black;
+}
+
 .bg-black {
   background-color: black;
-}
-
-.red {
-  color: red;
-}
-
-.tamno-crveno {
-  color: #D94A38;
 }
 
 .white {
@@ -16,4 +12,16 @@
 
 .bg-white {
   background-color: white;
+}
+
+.red {
+  color: red;
+}
+
+.valencia {
+  color: #D94A38;
+}
+
+.avocado {
+  color: #848C58;
 }
