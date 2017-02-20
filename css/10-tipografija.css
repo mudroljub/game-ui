@@ -21,7 +21,8 @@
   text-align: right;
 }
 
-.centar {
+.centar,
+.center {
   text-align: center;
 }
 
